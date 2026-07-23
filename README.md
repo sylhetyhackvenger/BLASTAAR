@@ -66,7 +66,7 @@ Quick Install
 ```bash
 # Clone the repository
 git clone https://github.com/sylhetyhackvenger/BLASTAAR
-cd blastaar
+cd BLASTAAR 
 
 # Install dependencies
 pip install -r requirements.txt
