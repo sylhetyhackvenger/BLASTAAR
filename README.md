@@ -1,5 +1,7 @@
 🔥 BLASTAAR - Gray Hat Hacking Platform
-
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 ⚡ Enterprise-Grade Security Assessment Suite
 
 BLASTAAR is a cutting-edge, comprehensive security assessment platform designed for professional ethical hackers, penetration testers, and security researchers. Built with advanced AI capabilities, zero-day detection, and complete vulnerability scanning, it represents the next generation of security testing tools.
