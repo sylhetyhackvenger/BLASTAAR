@@ -1,0 +1,30 @@
+# BLASTAAR - Gray Hat Hacking Platform
+# Requirements File
+# ========================
+
+# ⚠️ NOTE: BLASTAAR uses ONLY Python standard library
+# No external packages are required for core functionality!
+# This file is for documentation purposes only.
+
+# Python Version
+# python>=3.8
+
+# Optional: If you want YAML support (not required)
+pyyaml>=6.0
+
+# Optional: For enhanced color support (not required)
+colorama>=0.4.6
+
+# Optional: For progress bars (not required)
+tqdm>=4.66.0
+
+# Optional: For HTTP requests (not required)
+requests>=2.31.0
+
+# Optional: For SSH connections (not required)
+paramiko>=3.4.0
+
+# Optional: For database connections (not required)
+psycopg2-binary>=2.9.0
+pymongo>=4.6.0
+redis>=5.0.0
